@@ -225,6 +225,18 @@ nav a:hover {
     margin-left: auto;
     margin-right: auto;
 }
+.page-info-text a{color:#d30000; }
+.page-info-text a:link{color:#d30000; }
+.page-info-text a:visited{color:#128902; }
+.page-info-text a:hover{color:#128902; }
+.page-info-text a:active{color:#d30000; }
+
+.page-info-title-text {
+    line-height:140%;
+    font-size: 0.7em;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .space-name {
