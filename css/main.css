@@ -200,6 +200,19 @@ nav a:hover {
     color: #128902;
 }
 
+.info-text {
+    font-size: 0.7em;
+}
+
+.info-link-text {
+    font-size: 0.7em;
+}
+.info-link-text a{color:#d30000; }
+.info-link-text a:link{color:#d30000; }
+.info-link-text a:visited{color:#128902; }
+.info-link-text a:hover{color:#128902; }
+.info-link-text a:active{color:#d30000; }
+
 .space-name {
     font-size: 1.2em;
 }
