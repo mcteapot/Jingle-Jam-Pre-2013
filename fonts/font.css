@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Fipps';
+  src: url('Fipps-Regular.eot'); /* IE9 Compat Modes */
+  src: url('Fipps-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('Fipps-Regular.woff') format('woff'), /* Modern Browsers */
+       url('Fipps-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('Fipps-Regular.svg#uursaqyzba') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: '04b03';
+  src: url('retro.eot'); /* IE9 Compat Modes */
+  src: url('retro.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('retro.woff') format('woff'), /* Modern Browsers */
+       url('retro.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('retro.svg#jhfcttqofx') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Press Start 2P';
+  src: url('PressStart2P.eot'); /* IE9 Compat Modes */
+  src: url('PressStart2P.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('PressStart2P.woff') format('woff'), /* Modern Browsers */
+       url('PressStart2P.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('PressStart2P.svg#gbmczbteol') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
