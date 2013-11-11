@@ -200,6 +200,11 @@ nav a:hover {
     color: #128902;
 }
 
+.title-link a:link {text-decoration:none;}
+.title-link a:visited {text-decoration:none;}
+.title-link a:hover {text-decoration:none;}
+.title-link a:active {text-decoration:none;}
+
 .info-text {
     line-height:140%;
     font-size: 0.7em;
@@ -207,7 +212,6 @@ nav a:hover {
     margin-left: auto;
     margin-right: auto;
 }
-
 
 .info-link-text {
     font-size: 0.7em;
@@ -218,6 +222,7 @@ nav a:hover {
 .info-link-text a:hover{color:#128902; }
 .info-link-text a:active{color:#d30000; }
 
+
 .page-info-text {
     line-height:140%;
     font-size: 0.5em;
@@ -225,6 +230,7 @@ nav a:hover {
     margin-left: auto;
     margin-right: auto;
 }
+
 .page-info-text a{color:#d30000; }
 .page-info-text a:link{color:#d30000; }
 .page-info-text a:visited{color:#128902; }
@@ -239,6 +245,18 @@ nav a:hover {
     margin-right: auto;
 }
 
+.page-info-line-text {
+    text-align: left;
+    line-height:140%;
+    font-size: 0.5em;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-info-date-text {
+    font-size: 1.5em;
+}
 .space-name {
     font-size: 1.2em;
 }
