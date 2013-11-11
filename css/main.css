@@ -201,8 +201,13 @@ nav a:hover {
 }
 
 .info-text {
+    line-height:140%;
     font-size: 0.7em;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
+
 
 .info-link-text {
     font-size: 0.7em;
@@ -212,6 +217,15 @@ nav a:hover {
 .info-link-text a:visited{color:#128902; }
 .info-link-text a:hover{color:#128902; }
 .info-link-text a:active{color:#d30000; }
+
+.page-info-text {
+    line-height:140%;
+    font-size: 0.5em;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+}
 
 .space-name {
     font-size: 1.2em;
