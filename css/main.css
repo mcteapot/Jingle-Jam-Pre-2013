@@ -483,6 +483,13 @@ a {
     cursor: pointer;
 }
 
+.subscribe-mailer {
+  font-size: 150%;  
+}
+.subscribe-font {
+    font-size: 1.7em;
+}
+
 
 
 /* ==========================================================================
