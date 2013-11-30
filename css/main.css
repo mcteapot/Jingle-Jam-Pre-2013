@@ -217,12 +217,24 @@ nav a:hover {
     padding-top: 50px;
     font-size: 0.7em;
 }
+
+
 .info-link-text a{color:#d30000; }
 .info-link-text a:link{color:#d30000; }
 .info-link-text a:visited{color:#128902; }
 .info-link-text a:hover{color:#128902; }
 .info-link-text a:active{color:#d30000; }
 
+.help-link-text {
+    padding-top: 5px;
+    font-size: 0.8em;
+}
+
+.help-link-text a{color:#d30000; }
+.help-link-text a:link{color:#d30000; }
+.help-link-text a:visited{color:#128902; }
+.help-link-text a:hover{color:#128902; }
+.help-link-text a:active{color:#d30000; }
 
 .page-info-text {
     line-height:140%;
